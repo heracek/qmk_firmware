@@ -1,3 +1,15 @@
+# Helix QMK Firmware
+
+```bash
+brew bundle install
+
+brew bundle exec make helix/rev2:heracek:avrdude-split-left
+
+brew bundle exec make helix/rev2:heracek:avrdude-split-right
+```
+
+---
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
