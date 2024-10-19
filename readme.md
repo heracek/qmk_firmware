@@ -3,10 +3,11 @@
 ```bash
 brew bundle install
 
-brew bundle exec make helix/rev2:heracek:avrdude-split-left
-
-brew bundle exec make helix/rev2:heracek:avrdude-split-right
+brew bundle exec make HELIX=oled,back,ios helix/rev2:heracek:avrdude
 ```
+
+[keymap.c](keyboards/helix/rev2/keymaps/heracek/keymap.c)
+[layout.h](users/heracek/layouts.h)
 
 ---
 
