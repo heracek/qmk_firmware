@@ -1,5 +1,7 @@
 # Helix QMK Firmware
 
+[See layout](https://www.keyboard-layout-editor.com/#/gists/973b223b2e6f474b06563c00ce1e1536)
+
 ```bash
 brew bundle install
 
